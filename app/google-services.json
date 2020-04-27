@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "598985974495",
+    "firebase_url": "https://pressthebutton-636eb.firebaseio.com",
+    "project_id": "pressthebutton-636eb",
+    "storage_bucket": "pressthebutton-636eb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:598985974495:android:93153b53e9a6b5665fff6a",
+        "android_client_info": {
+          "package_name": "com.example.pressthebutton"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "598985974495-6jvod47n21pgj2l43t2piouhgv1j6dgn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3AN1fLgGw9Myi4zPj9ojFGr1HWGhsPeE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "598985974495-6jvod47n21pgj2l43t2piouhgv1j6dgn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
